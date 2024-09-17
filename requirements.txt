@@ -1,0 +1,8 @@
+transformers
+python-dotenv
+torch
+datasets
+nltk
+soundfile
+SentencePiece
+pydub
